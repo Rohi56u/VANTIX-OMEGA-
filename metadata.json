@@ -1,0 +1,7 @@
+{
+  "name": "VANTIX-OMEGA AI-OS",
+  "description": "Next-Generation Distributed AI Operating System with Multi-Agent Architecture.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
